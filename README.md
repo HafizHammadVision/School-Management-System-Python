@@ -26,10 +26,10 @@ A console-based School Management System developed in Python using Object-Orient
 - Python 3
  
 ## How to Run
-1.Clone or download this repository.
-2.Open the project folder in your code editor.
-3.Run the Python file:
-4.python school_management.py
+1. Clone or download this repository.
+2. Open the project folder in your code editor.
+3. Run the Python file:
+    'python school management_system.py'
 
 ## Learning Purpose
 - This project was created to practice Python OOP concepts and improve programming skills through a practical project.
